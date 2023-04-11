@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box{
+    margin: 1rem;
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    transition: ease-in-out 0.6s;
+}
+
+.translate{
+    transform: translateX(500px);
+}

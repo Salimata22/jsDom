@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.titre1{
+    display: block;
+}
+
+.titre2{
+    display: block;
+}
